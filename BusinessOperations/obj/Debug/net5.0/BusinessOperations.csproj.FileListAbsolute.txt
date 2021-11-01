@@ -1,0 +1,15 @@
+C:\Users\Hamza\source\repos\BusinessOperations\bin\Debug\net5.0\BusinessOperations.deps.json
+C:\Users\Hamza\source\repos\BusinessOperations\bin\Debug\net5.0\BusinessOperations.dll
+C:\Users\Hamza\source\repos\BusinessOperations\bin\Debug\net5.0\ref\BusinessOperations.dll
+C:\Users\Hamza\source\repos\BusinessOperations\bin\Debug\net5.0\BusinessOperations.pdb
+C:\Users\Hamza\source\repos\BusinessOperations\bin\Debug\net5.0\DataAccess.dll
+C:\Users\Hamza\source\repos\BusinessOperations\bin\Debug\net5.0\DataAccess.pdb
+C:\Users\Hamza\source\repos\BusinessOperations\obj\Debug\net5.0\BusinessOperations.csprojAssemblyReference.cache
+C:\Users\Hamza\source\repos\BusinessOperations\obj\Debug\net5.0\BusinessOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hamza\source\repos\BusinessOperations\obj\Debug\net5.0\BusinessOperations.AssemblyInfoInputs.cache
+C:\Users\Hamza\source\repos\BusinessOperations\obj\Debug\net5.0\BusinessOperations.AssemblyInfo.cs
+C:\Users\Hamza\source\repos\BusinessOperations\obj\Debug\net5.0\BusinessOperations.csproj.CoreCompileInputs.cache
+C:\Users\Hamza\source\repos\BusinessOperations\obj\Debug\net5.0\BusinessOperations.csproj.CopyComplete
+C:\Users\Hamza\source\repos\BusinessOperations\obj\Debug\net5.0\BusinessOperations.dll
+C:\Users\Hamza\source\repos\BusinessOperations\obj\Debug\net5.0\ref\BusinessOperations.dll
+C:\Users\Hamza\source\repos\BusinessOperations\obj\Debug\net5.0\BusinessOperations.pdb
